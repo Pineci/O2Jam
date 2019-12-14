@@ -1,0 +1,542 @@
+*----HEADER----*
+#PLAYER 1
+#TITLE Trust
+#ARTIST Jetset'er
+#GENRE Soul/R&B
+#PLAYLEVEL 0
+#BPM 124.00
+#STAGEFILE OJN_Trust_0.png
+#LNTYPE 1
+
+*----WAV LIST----*
+#WAV01 d-bd.ogg
+#WAV02 d-bd2.ogg
+#WAV03 d-rim.ogg
+#WAV04 d-hh.ogg
+#WAV05 d-hh2.ogg
+#WAV06 d-hh2o.ogg
+#WAV07 d-crash.ogg
+#WAV08 d-crash.ogg
+#WAV09 d-ride.ogg
+#WAV0A d-hh2o2.ogg
+#WAV0C Drum-pass01-01.ogg
+#WAV0D Drum-pass01-02.ogg
+#WAV0E Drum-pass01-03.ogg
+#WAV0F Drum-pass01-04.ogg
+#WAV0G Drum-pass01-05.ogg
+#WAV0H Drum-pass01-06.ogg
+#WAV0I Drum-pass02-01.ogg
+#WAV0J Drum-pass02-02.ogg
+#WAV0K Drum-pass02-03.ogg
+#WAV0L Drum-pass02-04.ogg
+#WAV0M Drum-pass02-05.ogg
+#WAV0N Drum-pass03-01.ogg
+#WAV0O Drum-pass03-02.ogg
+#WAV0P Drum-pass03-03.ogg
+#WAV0Q Drum-pass03-04.ogg
+#WAV0R Drum-pass03-05.ogg
+#WAV0S Drum-pass03-06.ogg
+#WAV0T Drum-pass03-07.ogg
+#WAV0U Drum-pass03-08.ogg
+#WAV0V d-sn-end01.ogg
+#WAV0W d-sn-end02.ogg
+#WAV0X d-sn-end03.ogg
+#WAV0Y d-sn-end04.ogg
+#WAV0Z FX-guitar01.ogg
+#WAV10 blank.ogg
+#WAV12 brass-intro-01.ogg
+#WAV13 brass-intro-02.ogg
+#WAV14 brass-intro-03.ogg
+#WAV15 brass-intro-04.ogg
+#WAV16 brass-intro-05.ogg
+#WAV17 brass-intro-06.ogg
+#WAV18 brass-intro-07-.ogg
+#WAV19 brass-intro-08.ogg
+#WAV1A brass-intro-09.ogg
+#WAV1B brass-intro-10-.ogg
+#WAV1C brass-intro-11.ogg
+#WAV1D brass-intro-12.ogg
+#WAV1E brass-intro-13-.ogg
+#WAV1F brass-intro-14-.ogg
+#WAV1G brass-intro-15-.ogg
+#WAV1H brass-intro-16.ogg
+#WAV1J brass-intro2-01.ogg
+#WAV1K brass-intro2-02.ogg
+#WAV1L brass-intro2-03.ogg
+#WAV1M brass-intro2-04.ogg
+#WAV1N brass-intro2-05.ogg
+#WAV1O brass-intro2-06.ogg
+#WAV1P brass-intro2-07-.ogg
+#WAV1Q brass-intro2-08.ogg
+#WAV1R brass-intro2-09.ogg
+#WAV1S brass-intro2-10-.ogg
+#WAV1T brass-intro2-11.ogg
+#WAV1U brass-intro2-12.ogg
+#WAV1V brass-intro2-13+.ogg
+#WAV1X brass-jam01-01.ogg
+#WAV1Y brass-jam01-02.ogg
+#WAV1Z brass-jam01-03.ogg
+#WAV20 brass-jam02-01.ogg
+#WAV21 brass-jam02-02.ogg
+#WAV22 brass-jam02-03.ogg
+#WAV23 brass-jam02-04.ogg
+#WAV24 brass-jam03-01.ogg
+#WAV25 brass-jam03-02.ogg
+#WAV26 brass-jam03-03.ogg
+#WAV27 brass-jam03-04.ogg
+#WAV28 brass-jam03-05.ogg
+#WAV29 brass-jam03-06.ogg
+#WAV2A brass-jam03-07.ogg
+#WAV2C bass-intro-01.ogg
+#WAV2D bass-intro-02.ogg
+#WAV2E bass-intro-03-.ogg
+#WAV2F bass-intro-04.ogg
+#WAV2G bass-intro-05-.ogg
+#WAV2H bass-intro-06-.ogg
+#WAV2I bass-intro-07-.ogg
+#WAV2J bass-intro-08-.ogg
+#WAV2K bass-intro-09-.ogg
+#WAV2L bass-intro-10-.ogg
+#WAV2M bass-intro-11-.ogg
+#WAV2N bass-intro-12-.ogg
+#WAV2O bass-intro-13-.ogg
+#WAV2P bass-intro-14-.ogg
+#WAV2Q bass-intro-15.ogg
+#WAV2R bass-intro-16-.ogg
+#WAV2S bass-intro-17-.ogg
+#WAV2T bass-intro-18-.ogg
+#WAV2U bass-intro-19-.ogg
+#WAV2V bass-intro-20-.ogg
+#WAV2W bass-intro-21-.ogg
+#WAV2X bass-intro-22.ogg
+#WAV2Y bass-intro-23+.ogg
+#WAV2Z bass-intro-24+.ogg
+#WAV30 bass-intro-25+-.ogg
+#WAV31 bass-intro-26-.ogg
+#WAV32 bass-intro-27-.ogg
+#WAV33 bass-intro-28.ogg
+#WAV34 bass-intro-29.ogg
+#WAV35 bass-intro-30.ogg
+#WAV36 bass-intro-31.ogg
+#WAV37 bass-intro-32-.ogg
+#WAV38 bass-intro-33.ogg
+#WAV39 bass-intro-34--.ogg
+#WAV3A bass-intro-35--.ogg
+#WAV3B bass-intro-36--.ogg
+#WAV3C bass-intro-37.ogg
+#WAV3D bass-intro-38-.ogg
+#WAV3E bass-intro-39.ogg
+#WAV3F bass-intro-40.ogg
+#WAV3G bass-intro-41.ogg
+#WAV3H bass-intro-42.ogg
+#WAV3I bass-intro-43-.ogg
+#WAV3J bass-intro-44.ogg
+#WAV3K bass-intro-45.ogg
+#WAV3L bass-intro-46.ogg
+#WAV3M bass-intro-47.ogg
+#WAV3N bass-intro-48.ogg
+#WAV3O bass-intro-49.ogg
+#WAV3P bass-intro-50.ogg
+#WAV3Q bass-intro-51.ogg
+#WAV3R bass-intro-52.ogg
+#WAV3S bass-intro-53.ogg
+#WAV3T bass-intro-54+.ogg
+#WAV3U bass-intro-54+end01.ogg
+#WAV3V bass-intro-54+end02.ogg
+#WAV3W bass-intro-54+end03-.ogg
+#WAV3X bass-intro-54+end04.ogg
+#WAV3Y bass-intro-54+end05.ogg
+#WAV3Z bass-intro-54+end06.ogg
+#WAV40 bass-intro-54+end07.ogg
+#WAV41 bass-intro-54+end08.ogg
+#WAV43 bass-verse1-01+02.ogg
+#WAV44 bass-verse1-03-.ogg
+#WAV45 bass-verse1-04-.ogg
+#WAV46 bass-verse1-05-.ogg
+#WAV47 bass-verse1-06.ogg
+#WAV48 bass-verse1-07-.ogg
+#WAV49 bass-verse1-08+.ogg
+#WAV4A bass-verse1-09-.ogg
+#WAV4B bass-verse1-10-.ogg
+#WAV4C bass-verse1-11.ogg
+#WAV4D bass-verse1-12-13-14-15.ogg
+#WAV4E bass-verse1-16.ogg
+#WAV4F bass-verse1-17.ogg
+#WAV4G bass-verse1-18.ogg
+#WAV4H bass-verse1-19.ogg
+#WAV4I bass-verse1-20.ogg
+#WAV4J bass-verse1-21.ogg
+#WAV4K bass-verse1-22.ogg
+#WAV4L bass-verse1-23.ogg
+#WAV4M bass-verse1-24.ogg
+#WAV4N bass-verse1-25.ogg
+#WAV4O bass-verse1-26.ogg
+#WAV4P bass-verse1-27.ogg
+#WAV4Q bass-verse1-28.ogg
+#WAV4R bass-verse1-29.ogg
+#WAV4S bass-verse1-30-31.ogg
+#WAV4T bass-verse1-32.ogg
+#WAV4U bass-verse1-33.ogg
+#WAV4V bass-verse1-34.ogg
+#WAV4W bass-verse1-35.ogg
+#WAV4X bass-verse1-36.ogg
+#WAV4Y bass-verse1-37.ogg
+#WAV4Z bass-verse1-38.ogg
+#WAV50 bass-verse1-39.ogg
+#WAV51 bass-verse1-40.ogg
+#WAV52 bass-verse1-41.ogg
+#WAV53 bass-verse1-42.ogg
+#WAV54 bass-verse1-43.ogg
+#WAV55 bass-verse1-44.ogg
+#WAV56 bass-verse1-45.ogg
+#WAV57 bass-verse1-46.ogg
+#WAV58 bass-verse1-47.ogg
+#WAV59 bass-verse1-48.ogg
+#WAV5A bass-verse1-49.ogg
+#WAV5B bass-verse1-50.ogg
+#WAV5C bass-verse1-51.ogg
+#WAV5D bass-verse1-52.ogg
+#WAV5E bass-verse1-53.ogg
+#WAV5F bass-verse1-54.ogg
+#WAV5G bass-verse1-55.ogg
+#WAV5H bass-verse1-56.ogg
+#WAV5I bass-verse1-57.ogg
+#WAV5J bass-verse1-58.ogg
+#WAV5K bass-verse1-59.ogg
+#WAV5L bass-verse1-60.ogg
+#WAV5M bass-verse1-61.ogg
+#WAV5N bass-verse1-62.ogg
+#WAV5O bass-verse1-63.ogg
+#WAV5P bass-verse1-64.ogg
+#WAV5Q bass-verse1-65.ogg
+#WAV5R bass-verse1-66.ogg
+#WAV5S bass-verse1-67.ogg
+#WAV5T bass-verse1-68.ogg
+#WAV5U bass-verse1-69.ogg
+#WAV5V bass-verse1-70.ogg
+#WAV5W bass-verse1-71.ogg
+#WAV5X bass-verse1-72.ogg
+#WAV5Z bass-hook-01.ogg
+#WAV60 bass-hook-02.ogg
+#WAV61 bass-hook-03--.ogg
+#WAV62 bass-hook-04.ogg
+#WAV63 bass-hook-05.ogg
+#WAV64 bass-hook-06.ogg
+#WAV65 bass-hook-07.ogg
+#WAV66 bass-hook-08.ogg
+#WAV67 bass-hook-09.ogg
+#WAV68 bass-hook-10+.ogg
+#WAV69 bass-hook-11.ogg
+#WAV6A bass-hook-12.ogg
+#WAV6B bass-hook-13.ogg
+#WAV6C bass-hook-14.ogg
+#WAV6D bass-hook-15.ogg
+#WAV6E bass-hook-16-.ogg
+#WAV6F bass-hook-17.ogg
+#WAV6G bass-hook-18.ogg
+#WAV6H bass-hook-19.ogg
+#WAV6I bass-hook-20.ogg
+#WAV6J bass-hook-21.ogg
+#WAV6K bass-hook-22.ogg
+#WAV6L bass-hook-23+.ogg
+#WAV6M bass-hook-24.ogg
+#WAV6N bass-hook-25.ogg
+#WAV6O bass-hook-26.ogg
+#WAV6P bass-hook-27.ogg
+#WAV6Q bass-hook-28.ogg
+#WAV6R bass-hook-29.ogg
+#WAV6S bass-hook-30.ogg
+#WAV6T bass-hook-31.ogg
+#WAV6U bass-hook-32.ogg
+#WAV6V bass-hook-33.ogg
+#WAV6W bass-hook-34.ogg
+#WAV6X bass-hook-35.ogg
+#WAV6Y bass-hook-36.ogg
+#WAV6Z bass-hook-37.ogg
+#WAV70 bass-hook-38.ogg
+#WAV71 bass-hook-39--.ogg
+#WAV72 bass-hook-40.ogg
+#WAV73 bass-hook-41.ogg
+#WAV74 bass-hook-42.ogg
+#WAV75 bass-hook-43.ogg
+#WAV76 bass-hook-44.ogg
+#WAV77 bass-hook-45.ogg
+#WAV78 bass-hook-46--.ogg
+#WAV79 bass-hook-47--.ogg
+#WAV7A bass-hook-48--.ogg
+#WAV7B bass-hook-49--.ogg
+#WAV7C bass-hook-50.ogg
+#WAV7D bass-hook-51.ogg
+#WAV7E bass-hook-52.ogg
+#WAV7F bass-hook-53.ogg
+#WAV7G bass-hook-81.ogg
+#WAV7H bass-hook-82.ogg
+#WAV7I bass-hook-83.ogg
+#WAV7J bass-hook-84.ogg
+#WAV7K bass-hook-85.ogg
+#WAV7L bass-hook-86.ogg
+#WAV7M bass-hook-87.ogg
+#WAV7N bass-hook-88.ogg
+#WAV7O bass-hook-89.ogg
+#WAV7P bass-hook-90.ogg
+#WAV7Q bass-hook-91.ogg
+#WAV7R bass-hook-92.ogg
+#WAV7S bass-hook-93.ogg
+#WAV7T bass-hook-94.ogg
+#WAV7U bass-hook-95.ogg
+#WAV7W Bass-bridgeloop-01.ogg
+#WAV7X Bass-bridgeloop-02.ogg
+#WAV7Y Bass-bridgeloop-03-.ogg
+#WAV7Z Bass-bridgeloop-04-.ogg
+#WAV80 Bass-bridgeloop-05-.ogg
+#WAV81 Bass-bridgeloop-06.ogg
+#WAV82 Bass-bridgeloop-07.ogg
+#WAV83 Bass-bridgeloop-08-.ogg
+#WAV84 Bass-bridgeloop-09-.ogg
+#WAV85 Bass-bridgeloop-10-.ogg
+#WAV86 Bass-bridgeloop-11.ogg
+#WAV87 Bass-bridgeloop-12.ogg
+#WAV88 Bass-bridgeloop-13.ogg
+#WAV89 Bass-bridgeloop-14.ogg
+#WAV8A Bass-bridgeloop-15--.ogg
+#WAV8B Bass-bridgeloop-16--.ogg
+#WAV8C Bass-bridgeloop-17--.ogg
+#WAV8D Bass-bridgeloop-18--.ogg
+#WAV8E Bass-bridgeloop-19--.ogg
+#WAV8F Bass-bridgeloop-20--.ogg
+#WAV8G Bass-bridgeloop-21.ogg
+#WAVRJ trust_master01.ogg
+#WAVRK trust_master02.ogg
+#WAVRL trust_master03.ogg
+#WAVRM trust_master04.ogg
+#WAVRN trust_master05.ogg
+#WAVRO trust_master06.ogg
+
+
+*----EVENTS----*
+#00101:ZZ040304ZZ040304
+
+#00201:ZZ040304ZZ000304
+#00201:0000000000000000RJ000402ZZ000000
+#00201:0000000000000602
+
+#00301:07000000000000000000000000002D04
+#00301:2C05000500050005
+
+#00401:0005000500052E06
+#00401:000000000000002F
+
+#00501:0005000500052G05
+#00501:000000000000002H
+
+#00601:2I052K05002N2O02
+#00601:002J0Z2L2M050006
+#00601:000000000000002P
+
+#00701:070000002R052T05
+#00701:ZZ000000002S032U
+#00701:2Q050305ZZ000000
+
+#00801:ZZ050305ZZ052W02
+#00801:00000000002V0305
+#00801:00000000000000000000000000002X04
+
+#00901:ZZ050305ZZ050305
+
+#01001:ZZ0000002Z050305
+#01001:2Y050305ZZ000000
+
+#01101:ZZ00000031000532ZZ00340003003600
+#01101:3000000033053505
+#01101:RK05030000000000
+
+#01201:ZZ003800033905003C00053D03003F06
+#01201:3700050000003A3BZZ0000003E000500
+
+#01301:ZZ0000003H00053IZZ003K0003003M00
+#01301:3G0503003J053L05
+
+#01401:ZZ053O053Q053S05
+#01401:003N033PZZ3R033T
+
+#01501:0700000031000532ZZ00340003003600
+#01501:ZZ00000033053505
+#01501:3005030000000000
+
+#01601:ZZ003800033905003C00053D03003F06
+#01601:3700050000003A3BZZ0000003E000500
+
+#01701:ZZ0000003H00053IZZ003K0003003M00
+#01701:3G0503003J053L05
+
+#01801:ZZ053O053Q053S05
+#01801:003N033PZZ3R033T
+
+#01901:0700000000000000000000003V00000000000400043W0400ZZ00000000003Y0000000000030000000000050000000000
+#01901:ZZ00000005003Z03
+#01901:3U0503003X060040
+
+#02001:00000504040005020000000006000000
+#02001:00000000000000040400050441000000
+
+#02101:4300000000454605
+#02101:RL05430544050047
+
+#02201:00054805004A4B05
+#02201:00000000000049000000050000004C06
+
+#02301:044D4D05004F4G05
+#02301:4D05004D4E05004H
+
+#02401:4I00050000004L004M00050000004P06
+#02401:004J4K05004N4O05
+
+#02501:0400000000454605
+#02501:4305430544050047
+
+#02601:0000050000004R000000050000000506
+#02601:00484Q0500000000
+
+#02701:04000000004U4V05
+#02701:4S054S054T05004W
+
+#02801:4X000500000050005100050000005406
+#02801:004Y4Z0500525305
+
+#02901:ZZ000000ZZ054600
+#02901:0405030544000305
+
+#03001:ZZ550357ZZ59035B
+#03001:0000050056000500580005005A000506
+
+#03101:ZZ000000ZZ054G00
+#03101:040503054E000305
+
+#03201:4I000000030005004M00000003000506
+#03201:ZZ054K00ZZ054O00
+
+#03301:ZZ000000ZZ054600
+#03301:0405030544000305
+
+#03401:ZZ0548000000035E
+#03401:00000305ZZ055D05
+
+#03501:ZZ050305ZZ050305
+
+#03601:ZZ5L0300ZZ000300
+#03601:00055M00055P5Q00
+#03601:0000055N5O000A00
+
+#03701:ZZ000A5UZZ000A02
+#03701:0A5S03000A5W0300
+
+#03801:ZZ00000062636465
+#03801:5Z
+#03801:RM00000060000061ZZ00000000000000
+
+#03901:ZZ666768ZZ696A6B
+
+#04001:ZZ0000006F6G6H6I
+#04001:6C0000006D00006EZZ00000000000000
+
+#04101:ZZ6J6K6LZZ6M6N6O
+
+#04201:ZZ000000626P6Q6R
+#04201:5Z00000060000061ZZ00000000000000
+
+#04301:ZZ0000006W6X6Y6Z
+#04301:6S6T6U6VZZ000000
+
+#04401:ZZ00000072737475
+#04401:7000000070000071ZZ00000000000000
+
+#04501:ZZ000000000000000200000000007F0H
+#04501:7600770078797A7B0C00000000000000
+#04501:00000000000000007C007D0E7E000G00
+
+#04601:0700000000066406
+#04601:ZZ00060003000661ZZ00630003006500
+
+#04701:ZZ06670000000306
+#04701:00000306ZZ066A00
+
+#04801:ZZ0006000300066EZZ00060003000600
+
+#04901:ZZ066K000000036O
+#04901:00000306ZZ066N06
+
+#05001:ZZ06037I00060306
+#05001:00000006ZZ7K0000
+
+#05101:7N0003067R000306
+#05101:ZZ067P00ZZ067T00
+
+#05201:RN06000600060006
+
+#05301:0006000600060006
+
+#05401:0006000600060006
+
+#05501:0006000600060006
+
+#05601:08
+#05601:ZZ060306ZZ060306
+
+#05701:ZZ060306ZZ060306
+
+#05801:ZZ060306ZZ060306
+
+#05901:ZZ00060003000600ZZ00060003000603
+
+#06001:07
+#06001:ZZ060306ZZ060306
+
+#06101:ZZ060306ZZ060206
+#06101:0000000000000302
+
+#06201:07
+#06201:ZZ060306ZZ06ZZ06
+
+#06301:ZZ060306ZZ06ZZ06
+
+#06401:08007X04ZZ0080040682050406008604
+#06401:ZZ00000006000081ZZ000083ZZ000000
+#06401:060000007Y7Z05000000000084850500
+#06401:7W
+#06401:RO05000000000000
+
+#06501:ZZ007X04ZZ0080040600000006008904
+#06501:0600000006000081ZZ00000088000500
+#06501:7W0005007Y7Z050087000504ZZ000000
+
+#06601:ZZ007X04ZZ0080040682050406008604
+#06601:0600000006000081ZZ000083ZZ000000
+#06601:7W0005007Y7Z05000000000084850500
+
+#06701:ZZ007X04ZZ00800406008C0J0K8F0M00
+#06701:0600000006000081ZZ00008DZZ008G00
+#06701:7W0005007Y7Z05008A8B0I008E0L0000
+
+#06801:07007X04ZZ0080040682050406008604
+#06801:ZZ00000006000081ZZ000083ZZ000000
+#06801:060000007Y7Z05000000000084850500
+#06801:7W05000000000000
+
+#06901:ZZ007X04ZZ008004ZZ000000ZZ008904
+#06901:06000000060000810700000006000000
+#06901:7W0005007Y7Z05000600000088000500
+#06901:00000000000000008700050407000000
+
+#07001:07007X04ZZ0080040682050406008604
+#07001:ZZ00000006000081ZZ000083ZZ000000
+#07001:060000007Y7Z05000000000084850500
+#07001:7W05000000000000
+
+#07101:ZZ007X04ZZ00800N0O8B0Q8DZZ8F0U00
+#07101:0600000006000081ZZ008C0R0S008G00
+#07101:7W0005007Y7Z05008A0P00008E0T0000
+
+#07501:00ZZ02ZZ
+
+#07901:00000010
+
